@@ -98,3 +98,6 @@ plugins:
 ## The license
 
 The theme is available as open source under the terms of the MIT License
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTY4NDE4MzZdfQ==
+-->
